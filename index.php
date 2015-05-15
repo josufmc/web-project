@@ -1,5 +1,5 @@
 <?php
-$result = 1 + 1 + 1;
+$result = 1 + 1 + 1 + 1;
 ?>
 <html>
 <head>
